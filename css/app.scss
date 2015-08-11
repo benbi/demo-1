@@ -14,6 +14,7 @@ body {
   color: $black;
   font-size: 18px;
 
+
   a {
     color: $white;
 
@@ -62,11 +63,11 @@ nav {
   padding-top: 40px;
   background-color: $black;
   overflow: hidden;
-  min-height: 80vh;
   color: $white;
+  height: 100vh;
 
   .call-to-action {
-    padding-top: 30px;
+    padding-top: 10vh;
 
     input, .btn {
       margin: 7px 0;
